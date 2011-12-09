@@ -1,0 +1,4 @@
+
+class HelloFaxAPIException(Exception):
+    pass
+  
